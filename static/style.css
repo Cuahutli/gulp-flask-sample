@@ -1,0 +1,12 @@
+body{
+	border-color: #888;
+}
+
+h1{
+	color: blue;
+	font-family: "Arial";
+	font-style: italic;
+	border-bottom: 2px dashed;
+	display: block;
+	align-content: center;
+}
